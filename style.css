@@ -11,7 +11,9 @@ body {
 }
 #classes {
   background-color: blue;
+  text-align: center;
 }
 .class {
   color: red;
+  text-align: center;
 }
