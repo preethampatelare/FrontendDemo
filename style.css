@@ -1,0 +1,17 @@
+* {
+  color: white;
+}
+
+.clickbutton {
+  background-color: aquamarine;
+  color: brown;
+}
+body {
+  background-color: rgb(204, 0, 255);
+}
+#classes {
+  background-color: blue;
+}
+.class {
+  color: red;
+}
